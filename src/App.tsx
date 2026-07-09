@@ -48,7 +48,7 @@ export default function App() {
               }}
               className="flex items-center gap-2 text-black hover:opacity-80 transition-opacity cursor-pointer"
             >
-              <span className="font-brand font-black tracking-tighter text-2xl">MuNR</span>
+              <span className="font-brand font-black tracking-tighter text-3xl md:text-4xl">MuNR.</span>
             </button>
             {activePackage && (
               <button 
